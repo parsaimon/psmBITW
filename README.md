@@ -1,5 +1,6 @@
 - 👋 Hi, I’m Partha Sarathi Mondal
-- 🌱 I’m currently learning React Native
+- 🌱 I’m a React Native dev.
+- 😎 Currently learning React JS
 - 📫 How to reach me : parthasarathimondal36@gmail.com
 
 <!---
